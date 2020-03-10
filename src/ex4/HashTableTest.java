@@ -1,7 +1,9 @@
-package ex1;
+package ex4;
+
+import ex1.HashTable;
 
 import static junit.framework.TestCase.assertEquals;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 class HashTableTest {
 
